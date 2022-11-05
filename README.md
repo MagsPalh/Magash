@@ -1,2 +1,2 @@
-# El Index contiene el codigo de la Practica de Pasteleria
+# El Index contiene el codigo de la Práctica de Pasteleria
 Solo presenta Codigo HTML
